@@ -1,0 +1,4 @@
+requests
+selenium
+fake-useragent
+pymysql
